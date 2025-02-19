@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"c616525fb732b943","type":"file","file":"cs210/lists/Arrays and Array Lists.md","x":-80,"y":-320,"width":520,"height":700},
+		{"id":"a073946e7c31a940","type":"file","file":"cs210/lists/Singly Linked Lists.md","x":440,"y":-320,"width":877,"height":700},
+		{"id":"3b092720b90a9be2","type":"file","file":"cs210/lists/Doubly Linked Lists.md","x":1317,"y":-320,"width":883,"height":700},
+		{"id":"837a27bf07dc9456","type":"file","file":"cs210/lists/Circular Linked Lists.md","x":2200,"y":-320,"width":840,"height":700},
+		{"id":"5d77c629c865f829","type":"text","text":"**Simple data structures**","x":1280,"y":-720,"width":360,"height":100},
+		{"id":"4cd90d73a1615f00","type":"file","file":"Pasted image 20250203085148.png","x":-2160,"y":-480,"width":1923,"height":921,"color":"1"}
+	],
+	"edges":[
+		{"id":"9f987ae309e00f1a","fromNode":"5d77c629c865f829","fromSide":"bottom","toNode":"a073946e7c31a940","toSide":"top"},
+		{"id":"82db567a3512c8fb","fromNode":"5d77c629c865f829","fromSide":"bottom","toNode":"3b092720b90a9be2","toSide":"top"},
+		{"id":"9e94b2eb273ea737","fromNode":"5d77c629c865f829","fromSide":"bottom","toNode":"c616525fb732b943","toSide":"top"},
+		{"id":"a3e62f843f7d7e74","fromNode":"5d77c629c865f829","fromSide":"bottom","toNode":"837a27bf07dc9456","toSide":"top"}
+	]
+}

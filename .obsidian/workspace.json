@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "29f0216fd50fd839",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8eadb919ab4f515",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e2a210af9efa5d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "cs210/lists/Simple data structures.canvas",
+                "viewState": {
+                  "x": 1398.7664974619288,
+                  "y": -214.5266497461929,
+                  "zoom": -1.1320005480725481
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Simple data structures"
+            }
+          },
+          {
+            "id": "97f8f21869348d1c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "cs210/lists/Simple data structures.canvas",
+                "viewState": {
+                  "x": 1606.425569586195,
+                  "y": -71.31303551839778,
+                  "zoom": -1.333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Simple data structures"
+            }
+          },
+          {
+            "id": "b36502323fa95946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "psycology/chapter 1/why do we need phsycology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why do we need phsycology"
+            }
+          },
+          {
+            "id": "ee353fd4829601fa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "cs210/lists/Simple data structures.canvas",
+                "viewState": {
+                  "x": 1385.5481422286819,
+                  "y": 166.3618644628541,
+                  "zoom": -1.5264142788760426
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Simple data structures"
+            }
+          },
+          {
+            "id": "92a285064e223853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus 1/calculus 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "calculus 1"
+            }
+          },
+          {
+            "id": "0f56d4eb9c890ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus 1/chapter 1 (functions and models)/1.1 Four ways to represent a functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Four ways to represent a functions"
+            }
+          },
+          {
+            "id": "0189077f0241b97b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calculus 1/old exams practice/major 1/term 241.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "term 241"
+            }
+          },
+          {
+            "id": "88b80f2c05c18873",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/Chapter 2/scalar vs vector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scalar vs vector"
+            }
+          },
+          {
+            "id": "190b12cb6a56dc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs210/lists/Singly Linked Lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Singly Linked Lists"
+            }
+          },
+          {
+            "id": "0a072a8dc1cfec59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cs210/lists/Doubly Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doubly Linked List"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3dc285cdeda7941d",
+    "type": "split",
+    "children": [
+      {
+        "id": "126f126a8f5e9589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f08f19d87a618360",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8aa62bbf4f2c233a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "471ccd886769b236",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a0feef3326f05c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7af8b9c533f84090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849b7960bcc75a77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cs210.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for cs210"
+            }
+          },
+          {
+            "id": "b7cd5250d2df0f0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cs210.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from cs210"
+            }
+          },
+          {
+            "id": "72d2bf61ff30ac36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e71a23bac17bb12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cs210.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of cs210"
+            }
+          },
+          {
+            "id": "587a9209d6bde6de",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d9bef29dcc1cc2df",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f08f19d87a618360",
+  "lastOpenFiles": [
+    "calculus 1/old exams practice/major 1/term 241.md",
+    "physics/Chapter 2/scalar vs vector.md",
+    "physics/Chapter 4",
+    "physics/Chapter 3",
+    "physics/Chapter 2",
+    "physics/Chapter 1",
+    "physics",
+    "psycology/chapter 1/Untitled.canvas",
+    "cs210/lists/Simple data structures.canvas",
+    "calculus 1/chapter 1 (functions and models)/1.1 Four ways to represent a functions.md",
+    "Pasted image 20250210062344.png",
+    "Pasted image 20250210061600.png",
+    "Pasted image 20250210061115.png",
+    "diagram-20250210.png",
+    "Pasted image 20250210060007.png",
+    "Pasted image 20250210042222.png",
+    "Untitled 1.md",
+    "Pasted image 20250202095004.png",
+    "Pasted image 20250201212223.png",
+    "psycology/chapter 1/why do we need phsycology.md",
+    "psycology/chapter 1/the scientific way of doing it.md",
+    "Ink/Writing/2025.2.8 - 17.03pm.writing",
+    "Ink/Writing/2025.2.8 - 16.44pm.writing",
+    "calculus 1/old exams practice/major 1",
+    "calculus 1/old exams practice",
+    "calculus 1/calculus 1.md",
+    "calculus 1/chapter 1 (functions and models)",
+    "cs210/lists/Circular Linked Lists.md",
+    "cs210/lists/Arrays and Array Lists.md",
+    "non-university-things/Silent Hill 2 Platinum.md",
+    "cs210/lists/Singly Linked Lists.md",
+    "Pasted image 20250204175505.png",
+    "cs210/lists/Doubly Linked Lists.md",
+    "Pasted image 20250203085148.png",
+    "2025-02-01.md",
+    "cs210/Lists.md",
+    "cs210/cs210.md",
+    "cs210/Untitled.md",
+    "Welcome.md"
+  ]
+}
