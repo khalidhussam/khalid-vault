@@ -61,3 +61,4 @@ to graph this function we shift the graph down by 3:![[Pasted image 202502100623
 and this is the final answer.
 
 helloo my phone what is up
+sheeeesh
