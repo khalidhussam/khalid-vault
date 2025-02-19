@@ -29,4 +29,6 @@ $$V=\lim_{ t \to 0 } \frac{\nabla x}{\nabla t} $$
 -----------------------
 But what if the speed is constant? this will make things a lot easier, to calculate the constant speed we can represent distance or displacement with D, it wouldn't matter it's the same formula:
 $$D=VT$$$$D=ST$$
-V represents Velocity and S represents Speed, so they both use the same formula and they're both much easier to calculate when it's constant
+V represents Velocity and S represents Speed, so they both use the same formula and they're both much easier to calculate when it's constant.
+
+hello world
