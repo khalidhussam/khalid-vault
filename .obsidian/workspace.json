@@ -162,12 +162,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "physics/Chapter 2/scalar vs vector.md",
+                "bFile": "physics/Chapter 2/scalar vs vector.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: scalar vs vector"
             }
           }
         ],
@@ -341,8 +341,8 @@
   },
   "active": "73d0a8b757f9bbed",
   "lastOpenFiles": [
-    "physics/Chapter 2/scalar vs vector.md",
     "calculus 1/old exams practice/major 1/term 241.md",
+    "physics/Chapter 2/scalar vs vector.md",
     "physics/Chapter 4",
     "physics/Chapter 3",
     "physics/Chapter 2",
