@@ -60,4 +60,4 @@ $$-\sqrt{ x }-3$$
 to graph this function we shift the graph down by 3:![[Pasted image 20250210062344.png]]
 and this is the final answer.
 
-hello world
+helloo my phone what is up
