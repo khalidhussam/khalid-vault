@@ -9,7 +9,7 @@ Vectors on the other hand take direction into consideration, here are some examp
 - Velocity
 - Acceleration
 
-**Q1. if someone were to walk along the X axis 13m to the right, then switched directions and walked 4m to the left, what is the distance and the displacement in this situation? (represent everything in a quick picture)**
+	**Q1. if someone were to walk along the X axis 13m to the right, then switched directions and walked 4m to the left, what is the distance and the displacement in this situation? (represent everything in a quick picture)**
 $$\text{Distance} = 13+4 =17 $$
 $$\text{Displacement = 13 - 4 = 9}$$
 
@@ -17,7 +17,7 @@ $$\text{Displacement = 13 - 4 = 9}$$
 $$\text{Average Speed }= \frac{\text{Distance}}{Time}$$
 
 $$\text{Average Velocity }= \frac{\text{Displacement}}{Time}$$
-Why average? speed is the exact current distance being travelled each given moment of time while distance/time is the average of speed being travelled. 
+Why average? speed is the exact current distance being traveled each given moment of time while distance/time is the average of speed being traveled. 
 
 some more general rules:
 $$\bar{S}\neq \bar{V}$$
