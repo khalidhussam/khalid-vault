@@ -1,6 +1,8 @@
 [
   "obsidian-latex-suite",
-  "ink",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "cm-typewriter-scroll-obsidian"
 ]
